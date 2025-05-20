@@ -12,7 +12,7 @@
   - [MySQL]()
 - <b>Code Book/Pseudocode</b>
   - [Code Book](https://github.com/CaddenB26/CodeBook)
-  - [Pseudocode]()
+  - [Pseudocode](https://github.com/CaddenB26/Pseudocode/blob/main/README.md)
 - <b>Presentation</b>
   - []()
   - []()
