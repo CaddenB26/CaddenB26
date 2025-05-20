@@ -15,15 +15,10 @@
   - [Pseudocode](https://github.com/CaddenB26/Pseudocode/blob/main/README.md)
 - <b>Presentation</b>
   - []()
-  - []()
-  - []()
-  - []()
 - <b>Excel</b>
   - []()
-  - []()
-  - []()
 - <b>Project Management</b>
-  - []()
+  - [Project Management](https://github.com/CaddenB26/Project-Management/blob/main/README.md)
   
 
 
