@@ -11,8 +11,8 @@
   - [Python](https://github.com/CaddenB26/PythonCode) <b><i>
   - [MySQL]()
 - <b>Code Book/Pseudocode</b>
-  - []()
-  - []()
+  - [Code Book](https://github.com/CaddenB26/CodeBook)
+  - [Pseudocode]()
 - <b>Presentation</b>
   - []()
   - []()
