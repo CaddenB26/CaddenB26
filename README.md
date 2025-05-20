@@ -3,7 +3,8 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Data Analysis Projects </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [BasketBall Report](https://github.com/CaddenB26/BBall-Report)
+  - []()
 - <b>Python Code </b>
   - [My Code](https://github.com/CaddenB26/PythonCode) <b><i>
 - <b>PowerShell</b>
