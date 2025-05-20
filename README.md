@@ -6,9 +6,12 @@
   - [BasketBall Report](https://github.com/CaddenB26/BBall-Report)
   - [Storm Report](https://github.com/CaddenB26/Storm-Data/blob/main/README.md)
   - 
-- <b>Python Code </b>
-  - [My Code](https://github.com/CaddenB26/PythonCode) <b><i>
-- <b>MySQL Code</b>
+- <b>Python/MySQL Code </b>
+  - [Python](https://github.com/CaddenB26/PythonCode) <b><i>
+  - [MySQL]()
+- <b>Code Book/Pseudocode</b>
+  - []()
+- <b>Presentation</b>
   - []()
   - []()
   - []()
@@ -17,8 +20,9 @@
   - []()
   - []()
   - []()
-- <b>Code Book/Pseudocode</b>
+- <b>Project Management</b>
   - []()
+  
 
 
 <h2> 🤳 Connect with me:</h2>
