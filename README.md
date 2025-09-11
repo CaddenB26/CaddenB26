@@ -19,9 +19,6 @@
   - [Excel Example](https://github.com/CaddenB26/Excel/blob/main/README.md)
 - <b>Project Management</b>
   - [Project Management](https://github.com/CaddenB26/Project-Management/blob/main/README.md)
-- <b>Kaggle Datasets</b>
-  - [Titanic Survival ML](https://github.com/CaddenB26/TitanicML/blob/main/README.md)
-  
 
 
 <h2> 🤳 Connect with me:</h2>
