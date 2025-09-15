@@ -3,22 +3,9 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Data Analysis Projects </b>
-  - [BasketBall Report](https://github.com/CaddenB26/BBall-Report)
   - [Storm Report](https://github.com/CaddenB26/Storm-Data/blob/main/README.md)
   - [Manufactoring Efficiency](https://github.com/CaddenB26/Manufacturing-Efficiency)
   - [Housing Report](https://github.com/CaddenB26/Housing-Data)
-- <b>Python/MySQL Code </b>
-  - [Python](https://github.com/CaddenB26/PythonCode) <b><i>
-  - [MySQL](https://github.com/CaddenB26/MySQL/blob/main/README.md)
-- <b>Code Book/Pseudocode</b>
-  - [Code Book](https://github.com/CaddenB26/CodeBook)
-  - [Pseudocode](https://github.com/CaddenB26/Pseudocode/blob/main/README.md)
-- <b>Presentation</b>
-  - [Presentation Example](https://github.com/CaddenB26/Presentation)
-- <b>Excel</b>
-  - [Excel Example](https://github.com/CaddenB26/Excel/blob/main/README.md)
-- <b>Project Management</b>
-  - [Project Management](https://github.com/CaddenB26/Project-Management/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
