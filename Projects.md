@@ -6,6 +6,7 @@
   - [Storm Report](https://github.com/CaddenB26/Storm-Data/blob/main/README.md)
   - [Manufactoring Efficiency](https://github.com/CaddenB26/Manufacturing-Efficiency)
   - [Housing Report](https://github.com/CaddenB26/Housing-Data)
+  - [Alzheimers Dataset](https://github.com/CaddenB26/Alzheimers-dataset-SQL)
 
 
 <h2> 🤳 Connect with me:</h2>
