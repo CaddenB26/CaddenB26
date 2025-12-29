@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Data Analysis Projects </b>
-  - [Storm Report](https://github.com/CaddenB26/Storm-Data/blob/main/README.md)
+  - [Online Sales](https://github.com/CaddenB26/Online-Sales-Visual/blob/main/README.md)
   - [Manufactoring Efficiency](https://github.com/CaddenB26/Manufacturing-Efficiency)
   - [Housing Report](https://github.com/CaddenB26/Housing-Data)
   - [Alzheimers Dataset](https://github.com/CaddenB26/Alzheimers-dataset-SQL)
