@@ -6,7 +6,7 @@
   - [Online Sales](https://github.com/CaddenB26/Online-Sales-Visual/blob/main/README.md)
   - [Manufactoring Efficiency](https://github.com/CaddenB26/Manufacturing-Efficiency)
   - [Housing Report](https://github.com/CaddenB26/Housing-Data)
-  - [Alzheimers Dataset](https://github.com/CaddenB26/Alzheimers-dataset-SQL)
+  - [Seattle AirBNB](https://github.com/CaddenB26/Seattle-AirBNB)
   - [Premium Insurance](https://github.com/CaddenB26/Premium-Forcasting)
   - [Coffee Sales](https://github.com/CaddenB26/Coffee-Sales)
 
