@@ -8,6 +8,7 @@
   - [Housing Report](https://github.com/CaddenB26/Housing-Data)
   - [Alzheimers Dataset](https://github.com/CaddenB26/Alzheimers-dataset-SQL)
   - [Premium Insurance](https://github.com/CaddenB26/Premium-Forcasting)
+  - [Coffee Sales](https://github.com/CaddenB26/Coffee-Sales)
 
 
 <h2> 🤳 Connect with me:</h2>
